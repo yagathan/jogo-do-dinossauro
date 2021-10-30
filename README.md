@@ -1,4 +1,11 @@
 # Jogo Dinossauro Offline - Google
 Instruções:
 
-Ao baixar a pasta, abra o arquivo "index.html" (duplo clique no arquivo) e o jogo irá executar no seu navegador.
+1- Extraia a pasta para um local de sua preferência
+2- Ao abrir a pasta, clique com o botão direito no arquivo "index.html"
+3-Navegue até a opção "abrir com" e selecione o seu navegador (Chrome, Firefox, Edge)
+4- O jogo será executado.
+
+Comandos: 
+
+Barra de espaço - Pula
