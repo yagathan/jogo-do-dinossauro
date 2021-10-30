@@ -8,4 +8,5 @@
 
 **Comandos:**
 
-Barra de espaço - Pula
+Barra de espaço - Pula.
+F5 - Recarrega a página para uma nova tentativa.
