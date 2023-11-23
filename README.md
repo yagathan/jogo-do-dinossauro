@@ -1,4 +1,10 @@
 # Jogo Dinossauro Offline - Google
+
+**Projeto:**
+
+Projeto realizado utilizando Javascript.
+
+
 **Instruções:**
 
 1- Extraia a pasta para um local de sua preferência.          
@@ -10,3 +16,5 @@
 
 Barra de espaço - Pula.         
 F5 - Recarrega a página para uma nova tentativa.
+
+
